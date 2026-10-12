@@ -1,0 +1,11 @@
+{
+  "project_name": "Social Pulse - Real-Time Sentiment Analysis on X",
+  "language": "Python",
+  "dashboard": "Streamlit",
+  "sentiment_model": "VADER",
+  "data_mode": [
+    "demo CSV",
+    "X API v2 recent search"
+  ],
+  "generated_on": "2026-10-12T12:18:11.545436+00:00"
+}

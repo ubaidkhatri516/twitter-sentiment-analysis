@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets and environment
+.streamlit/secrets.toml
+.env
+
+# Local outputs
+.DS_Store
+*.log
